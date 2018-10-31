@@ -1,0 +1,14 @@
+D:\projects\eShop\eShop-master\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+D:\projects\eShop\eShop-master\Service\bin\Debug\netcoreapp2.1\Service.dll
+D:\projects\eShop\eShop-master\Service\bin\Debug\netcoreapp2.1\Service.pdb
+D:\projects\eShop\eShop-master\Service\bin\Debug\netcoreapp2.1\Model.dll
+D:\projects\eShop\eShop-master\Service\bin\Debug\netcoreapp2.1\Repo.dll
+D:\projects\eShop\eShop-master\Service\bin\Debug\netcoreapp2.1\Model.pdb
+D:\projects\eShop\eShop-master\Service\bin\Debug\netcoreapp2.1\Repo.pdb
+D:\projects\eShop\eShop-master\Service\obj\Debug\netcoreapp2.1\Service.csprojAssemblyReference.cache
+D:\projects\eShop\eShop-master\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+D:\projects\eShop\eShop-master\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+D:\projects\eShop\eShop-master\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+D:\projects\eShop\eShop-master\Service\obj\Debug\netcoreapp2.1\Service.csproj.CopyComplete
+D:\projects\eShop\eShop-master\Service\obj\Debug\netcoreapp2.1\Service.dll
+D:\projects\eShop\eShop-master\Service\obj\Debug\netcoreapp2.1\Service.pdb
