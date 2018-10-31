@@ -51,6 +51,8 @@ namespace Repo
             {
                 throw new Exception("entity is null");
             }
+            context.Attach(entity);
+            context.Update(entity);
             context.SaveChanges();
         }
     }
